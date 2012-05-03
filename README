@@ -1,0 +1,8 @@
+How to play TicTacToe:
+
+1. Run the Server class, creating a server on your local machine.
+2. Run PlayTicTacToe, the class that will create the GUI used to interact with the server.
+3. Have fun!
+
+Thanks,
+Kevin Richardson
